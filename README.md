@@ -1,1 +1,1 @@
-![Gamal GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamalnaserhasan&show_icons=true&custom_title=Gamal%20Nasser&theme=tokyonight&border_radius=0&icon_color=ffffff&title_color=ffffff&text_color=ffffff&hide_border=true&bg_color=22272e)
+![Gamal GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamalnaserhasan&show_icons=true&custom_title=Gamal%20Nasser%20👋&theme=tokyonight&border_radius=0&icon_color=ffffff&title_color=ffffff&text_color=ffffff&hide_border=true&bg_color=22272e)
